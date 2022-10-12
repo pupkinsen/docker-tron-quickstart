@@ -20,7 +20,7 @@
     "http-proxy-middleware": "^0.19.1",
     "lodash": "^4.17.11",
     "morgan": "^1.9.1",
-    "scrypt": "^6.0.3",
+    "scrypt-js": "^3.0.0",
     "seedrandom": "^2.4.4",
     "tronweb": "^2.8.0"
   }
